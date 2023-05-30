@@ -1,0 +1,201 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Vestry Church - Your Christ Community - ECPv6.0.10//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Vestry Church - Your Christ Community
+X-ORIGINAL-URL:https://n.foxdsgn.com/vestry
+X-WR-CALDESC:Events for Vestry Church - Your Christ Community
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:20190331T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:20191027T010000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:20200329T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:20201025T010000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:20210328T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:20211031T010000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:20220327T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:20221030T010000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:20230326T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:20231029T010000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20230217T080000
+DTEND;TZID=Europe/London:20230217T170000
+DTSTAMP:20230530T095903
+CREATED:20200207T152116Z
+LAST-MODIFIED:20220803T095200Z
+UID:7438-1676620800-1676653200@n.foxdsgn.com
+SUMMARY:Women's Gathering
+DESCRIPTION:preview-2Download
+URL:https://n.foxdsgn.com/vestry/event/womens-gathering/
+LOCATION:New York\, 233 Main St\, New York\, NY\, United States
+CATEGORIES:Spiritual Growth
+ATTACH;FMTTYPE=image/jpeg:https://n.foxdsgn.com/vestry/wp-content/uploads/2020/01/book-1210030_1920.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20200220T180000
+DTEND;TZID=Europe/London:20200411T190000
+DTSTAMP:20230530T095903
+CREATED:20200205T130330Z
+LAST-MODIFIED:20200210T125343Z
+UID:7254-1582221600-1586631600@n.foxdsgn.com
+SUMMARY:Heaven in Business: Sacred Work
+DESCRIPTION:The world is on the verge of a spiritual awakening and it is not confined to the four walls of the church. Work is the greatest place to develop and forge our friendship with God. When God partners with us in all that we do\, then there is no such thing as a “normal day“. We believe that your work is significant because of the ONE who called you to it. You don’t need to be a preacher in the pulpit in order to advance God’s Kingdom. Your work\, is your ministry. We’ve created a worldwide community of Believers who know their calling is to the business realm. Thousands of lives have been touched & transformed\, and those numbers grow each day. \n\n\n\n When you realize your work is sacred and experience how much God wants to partner with you\, hopelessness and insignificance become a thing of the past. Your vision for life will be supercharged with possibility. Join us at the Sacred Work Conference and leave with renewed vision\, increased significance\, and a deepened friendship with God.
+URL:https://n.foxdsgn.com/vestry/event/temple-and-family-history-leadership/
+LOCATION:New York\, 233 Main St\, New York\, NY\, United States
+CATEGORIES:Relationship
+ATTACH;FMTTYPE=image/jpeg:https://n.foxdsgn.com/vestry/wp-content/uploads/2019/12/gallery4.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20200219T130000
+DTEND;TZID=Europe/London:20200410T150000
+DTSTAMP:20230530T095903
+CREATED:20200204T141759Z
+LAST-MODIFIED:20200207T110302Z
+UID:7107-1582117200-1586530800@n.foxdsgn.com
+SUMMARY:Suicide Loss Grief Support Group
+DESCRIPTION:Suicide Loss Grief Support Group. There will be a time of encouragement and hope for those struggling after the loss of their loved one. \n\n\n\nA support group for those who have lost a loved one to suicide. Those who lose a loved one to suicide often feel alone in their grief. Our support group offers a safe place for survivors of suicide loss to come together and talk openly with others who have shared a similar experience. No matter where you are in your personal journey\, you’ll find understanding\, encouragement\, and support to give you hope and healing.
+URL:https://n.foxdsgn.com/vestry/event/suicide-loss-grief-support-group/
+LOCATION:New York\, 233 Main St\, New York\, NY\, United States
+CATEGORIES:Spiritual Growth
+ATTACH;FMTTYPE=image/jpeg:https://n.foxdsgn.com/vestry/wp-content/uploads/2020/01/praying-2179326_1920.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20200211T150000
+DTEND;TZID=Europe/London:20200318T170000
+DTSTAMP:20230530T095903
+CREATED:20200204T141326Z
+LAST-MODIFIED:20200207T110437Z
+UID:7100-1581433200-1584550800@n.foxdsgn.com
+SUMMARY:Sports & Fitness - Stretch & Pray
+DESCRIPTION:Stretch & Pray is a Worship Experience class that offers all of the physical benefits of the strengthening postures and is done with scripture\, prayer\, and worship music speaking to a weekly theme. The classes are coed\, non-competitive\, and a great way to release stress by breathing in God’s goodness and breathing out negativity and toxicity. \n\n\n\nThe benefits of this class include core strengthening\, weight loss\, lower blood pressure\, better posture\, and much more. We dedicate our practice to God\, worshiping Him fully with our minds\, bodies\, and souls in fellowship. Come join us! \n\n\n\nBring a Mat to lie on. \n\n\n\nThis class is FREE!
+URL:https://n.foxdsgn.com/vestry/event/sports-fitness-stretch-pray/
+LOCATION:New York\, 233 Main St\, New York\, NY\, United States
+CATEGORIES:Worship Art
+ATTACH;FMTTYPE=image/jpeg:https://n.foxdsgn.com/vestry/wp-content/uploads/2020/01/john-price-RAZQiZOX3mU-unsplash-1-1.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20200210T080000
+DTEND;TZID=Europe/London:20200210T170000
+DTSTAMP:20230530T095903
+CREATED:20200108T092023Z
+LAST-MODIFIED:20200210T105903Z
+UID:5319-1581321600-1581354000@n.foxdsgn.com
+SUMMARY:Temple and Family History Leadership
+DESCRIPTION:Invited to participate are stake presidencies\, stake councils\, stake high councilors with responsibilities for temple and family history work\, bishoprics\, ward councils\, Relief Society counselors responsible for missionary efforts\, Relief Society counselors responsible for family history and temple efforts\, elders quorum counselors responsible for missionary efforts\, elders quorum counselors responsible for temple and family history work\, ward mission leaders\, ward missionaries\, youth quorum and class presidencies\, ward temple and family history leaders\, and all temple and family history consultants.
+URL:https://n.foxdsgn.com/vestry/event/elements-week-1-our-history-heartbeat/
+LOCATION:New York\, 233 Main St\, New York\, NY\, United States
+CATEGORIES:Worship Art
+ATTACH;FMTTYPE=image/jpeg:https://n.foxdsgn.com/vestry/wp-content/uploads/2019/11/home1bg.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20200207T130000
+DTEND;TZID=Europe/London:20200423T153000
+DTSTAMP:20230530T095903
+CREATED:20200205T172423Z
+LAST-MODIFIED:20200207T110612Z
+UID:7290-1581080400-1587655800@n.foxdsgn.com
+SUMMARY:Mission Intensive Training School
+DESCRIPTION:If you are wanting to have a global impact and carry revival out to the nations we invite you to join our annual Mission Intensive Training School\, specialized training focused on practical skills of living cross-culturally combined with the supernatural lifestyle. Those called to live in a foreign culture need the ability to integrate a supernatural lifestyle with the practical skills of living cross-culturally. This is the key to success! Living abroad can be challenging and difficult. This school open to those who are living in another nation or those who will be going out for the first time. This school will provide the skills necessary to not only survive but thrive! \n\n\n\nCome to connect\, get refreshed\, be equipped\, and empowered with others who have the same heart to reach the nations with the love of Jesus! Our heart is that you would go well\, go strong\, and go prepared with long-term effectiveness and sustainability!
+URL:https://n.foxdsgn.com/vestry/event/mission-intensive-training-school/
+LOCATION:New York\, 233 Main St\, New York\, NY\, United States
+CATEGORIES:Worship Art
+ATTACH;FMTTYPE=image/jpeg:https://n.foxdsgn.com/vestry/wp-content/uploads/2020/01/cross-2713356_1920.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20200206T190000
+DTEND;TZID=Europe/London:20200415T210000
+DTSTAMP:20230530T095903
+CREATED:20200129T084232Z
+LAST-MODIFIED:20200210T102143Z
+UID:6278-1581015600-1586984400@n.foxdsgn.com
+SUMMARY:Definitions: Gospel and Persuade
+DESCRIPTION:Conversion is the point of Christian faith that is most often misunderstood. It’s also a word that’s not particularly in favor of the modern world. No surprise. It was confusing when Jesus taught it to a religious leader of his day (John 3)\, and it is confusing to Christians and non-Christians today. So it’s good to spend some time explaining it.In the Muslim context where I live\, many people from other faith backgrounds find it disorienting to hear me preach that no one is born a Christian\, that all Christians are converting. Even those from Christian backgrounds are confused about conversion because many come from traditions that emphasize that a person is a Christian because of external reasons. But the Bible clearly teaches that conversion is not a function of your parents’ religion\, of which church you join\, or of what your passport says. It’s not based on your academic achievements\, even if they are from a religious institution. Conversion comes from true\, conscious\, genuine faith in Jesus.
+URL:https://n.foxdsgn.com/vestry/event/definitions-gospel-and-persuade/
+LOCATION:New York\, 233 Main St\, New York\, NY\, United States
+CATEGORIES:Relationship
+ATTACH;FMTTYPE=image/jpeg:https://n.foxdsgn.com/vestry/wp-content/uploads/2020/01/bible-2110439_1920.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20200205T080000
+DTEND;TZID=Europe/London:20200429T170000
+DTSTAMP:20230530T095903
+CREATED:20200205T173015Z
+LAST-MODIFIED:20200207T110622Z
+UID:7293-1580889600-1588179600@n.foxdsgn.com
+SUMMARY:Love After Marriage
+DESCRIPTION:Our goal is to instruct and guide married couples into a relationship characterized by openness\, vulnerability\, and love. During the Love After Marriage (LAM) Workshop\, couples have an opportunity through the working of Holy Spirit\, to learn and practice how to bring spiritual\, emotional\, and sexual oneness into their relationship. \n\n\n\nYour participation in this workshop will provide: \n\n\n\nFresh teaching on the basic principles of spiritual\, emotional\, and sexual onenessTools to take your marriage to a higher level of intimacy\, communication\, and enjoymentOpportunities to practice these tools in a small group settingBreakthrough for struggling marriagesKeys to take even healthy marriages to a higher levelTraining and materials available to bring this life-changing ministry into your church
+URL:https://n.foxdsgn.com/vestry/event/love-after-marriage/
+LOCATION:New York\, 233 Main St\, New York\, NY\, United States
+CATEGORIES:Relationship
+ATTACH;FMTTYPE=image/jpeg:https://n.foxdsgn.com/vestry/wp-content/uploads/2020/01/book-1209805_1920.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20190222T080000
+DTEND;TZID=Europe/London:20220222T080000
+DTSTAMP:20230530T095903
+CREATED:20200108T093533Z
+LAST-MODIFIED:20200207T110714Z
+UID:5327-1550822400-1645516800@n.foxdsgn.com
+SUMMARY:Vestry Worship & Creative Conference
+DESCRIPTION:Vestry Worship & Creative Conference is a special gathering of creatives\, dreamers and doers who are passionate about the call of God on their lives. We gather to explore our calling\, create with beauty and respond in worship to fulfil Jesus’ Great Commission. There is something for everyone within this gathering: powerful praise and worship with Hillsong United\, Hillsong Worship and Hillsong Young & Free\, life-defining key-speaker messages\, 100+ Co-Labs\, creative. In the case of a one-time donation\, the amount chosen by you will be transferred from your bank account to the account of the Vestry’s Foundation only once. To support sick children through the Vestry’s Foundation.
+URL:https://n.foxdsgn.com/vestry/event/vestry-worship-creative-conference/
+LOCATION:New York\, 233 Main St\, New York\, NY\, United States
+CATEGORIES:Spiritual Growth
+ATTACH;FMTTYPE=image/jpeg:https://n.foxdsgn.com/vestry/wp-content/uploads/2019/11/home2-bg.jpg
+END:VEVENT
+END:VCALENDAR

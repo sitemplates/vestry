@@ -1,0 +1,117 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Vestry Church - Your Christ Community - ECPv6.0.10//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Vestry Church - Your Christ Community
+X-ORIGINAL-URL:https://n.foxdsgn.com/vestry
+X-WR-CALDESC:Events for Vestry Church - Your Christ Community
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:20190331T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:20191027T010000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:20200329T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:20201025T010000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:20210328T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:20211031T010000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:20220327T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:20221030T010000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:20230326T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:20231029T010000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20230217T080000
+DTEND;TZID=Europe/London:20230217T170000
+DTSTAMP:20230530T100804
+CREATED:20200207T152116Z
+LAST-MODIFIED:20220803T095200Z
+UID:7438-1676620800-1676653200@n.foxdsgn.com
+SUMMARY:Women's Gathering
+DESCRIPTION:preview-2Download
+URL:https://n.foxdsgn.com/vestry/event/womens-gathering/
+LOCATION:New York\, 233 Main St\, New York\, NY\, United States
+CATEGORIES:Spiritual Growth
+ATTACH;FMTTYPE=image/jpeg:https://n.foxdsgn.com/vestry/wp-content/uploads/2020/01/book-1210030_1920.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20200219T130000
+DTEND;TZID=Europe/London:20200410T150000
+DTSTAMP:20230530T100804
+CREATED:20200204T141759Z
+LAST-MODIFIED:20200207T110302Z
+UID:7107-1582117200-1586530800@n.foxdsgn.com
+SUMMARY:Suicide Loss Grief Support Group
+DESCRIPTION:Suicide Loss Grief Support Group. There will be a time of encouragement and hope for those struggling after the loss of their loved one. \n\n\n\nA support group for those who have lost a loved one to suicide. Those who lose a loved one to suicide often feel alone in their grief. Our support group offers a safe place for survivors of suicide loss to come together and talk openly with others who have shared a similar experience. No matter where you are in your personal journey\, you’ll find understanding\, encouragement\, and support to give you hope and healing.
+URL:https://n.foxdsgn.com/vestry/event/suicide-loss-grief-support-group/
+LOCATION:New York\, 233 Main St\, New York\, NY\, United States
+CATEGORIES:Spiritual Growth
+ATTACH;FMTTYPE=image/jpeg:https://n.foxdsgn.com/vestry/wp-content/uploads/2020/01/praying-2179326_1920.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20190222T080000
+DTEND;TZID=Europe/London:20220222T080000
+DTSTAMP:20230530T100804
+CREATED:20200108T093533Z
+LAST-MODIFIED:20200207T110714Z
+UID:5327-1550822400-1645516800@n.foxdsgn.com
+SUMMARY:Vestry Worship & Creative Conference
+DESCRIPTION:Vestry Worship & Creative Conference is a special gathering of creatives\, dreamers and doers who are passionate about the call of God on their lives. We gather to explore our calling\, create with beauty and respond in worship to fulfil Jesus’ Great Commission. There is something for everyone within this gathering: powerful praise and worship with Hillsong United\, Hillsong Worship and Hillsong Young & Free\, life-defining key-speaker messages\, 100+ Co-Labs\, creative. In the case of a one-time donation\, the amount chosen by you will be transferred from your bank account to the account of the Vestry’s Foundation only once. To support sick children through the Vestry’s Foundation.
+URL:https://n.foxdsgn.com/vestry/event/vestry-worship-creative-conference/
+LOCATION:New York\, 233 Main St\, New York\, NY\, United States
+CATEGORIES:Spiritual Growth
+ATTACH;FMTTYPE=image/jpeg:https://n.foxdsgn.com/vestry/wp-content/uploads/2019/11/home2-bg.jpg
+END:VEVENT
+END:VCALENDAR
